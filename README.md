@@ -13,4 +13,4 @@ https://add101.github.io/DailyPlanner/
 
 ## Screenshot:
 
-![my screenshot](dailyplanner.jpg)
+![my screenshot](DailyPlanner.jpg)
